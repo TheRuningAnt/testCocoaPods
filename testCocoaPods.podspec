@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license = {:type=>"MIT",:file=>"LICENSE"}
   s.author = { 'zhaoguangliang' => '848278419@qq.com' }
   s.platform = :ios, "8.0"
-  s.source = { :git => 'https://github.com/TheRuningAnt/testCocoaPods.git', :tag => 'v.version' }
-  s.source_files = "testCocoaPods/*"
+  s.source = { :git => 'https://github.com/TheRuningAnt/testCocoaPods.git', :tag => 'v1.0.12' }
+  s.source_files = "testCocoaPodsFile/*"
   s.requires_arc = true
 end
