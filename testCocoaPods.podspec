@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = 'testCocoaPods'
+  s.name = 'LLtestCocoaPods'
   s.version = '1.0.1'
   s.summary = '测试创建cocoaPods项目'
   s.homepage = 'https://github.com/TheRuningAnt/testCocoaPods.git'
