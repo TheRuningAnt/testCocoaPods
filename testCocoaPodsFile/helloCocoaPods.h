@@ -6,12 +6,8 @@
 //  Copyright © 2017年 zhaoguangliang. All rights reserved.
 //
 
-#import "helloCocoaPods.h"
-
+#import <UIKit/UIKit.h>
 @interface helloCocoaPods()
 
 @end
 
-@implementation helloCocoaPods
-
-@end
